@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liimcz
-- 👀 I’m interested in ... terminar os estudos
-- 🌱 I’m currently learning ... desenvolvimento de sistema
+- 👀 I’m interested in aprender
+- 🌱 I’m currently learning desenvolvimento de sistema
 - 📫 How to reach me ...cunhalimalarissa94@gmail.com
 
 <!---
